@@ -1,0 +1,15 @@
+{
+  "name": "yes-auto-trade",
+  "version": "1.0.0",
+  "description": "YeS Auto Trade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YeS",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "puppeteer": "^20.9.0"
+  }
+}
